@@ -7,12 +7,12 @@
 </div>
 
 
-<img style="width:40px;height=40px;display:flex;position:relative" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img style="width:40px;height=40px;display:flex;position:relative" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img style="width:40px;height=40px;display:flex;position:relative" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img style="width:40px;height=40px;display:flex;position:relative" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />    
-<img style="width:40px;height=40px;display:flex;position:relative" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img style="width:40px;height=40px;display:flex;position:relative" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img style="width:40px;height=40px;display:flex;border: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img style="width:40px;height=40px;display:flex;border: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img style="width:40px;height=40px;display:flex;border: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img style="width:40px;height=40px;display:flex;border: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />    
+<img style="width:40px;height=40px;display:flex;border: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img style="width:40px;height=40px;display:flex;border: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           
           
 
