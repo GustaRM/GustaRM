@@ -1,12 +1,9 @@
-<link rel="stylesheet" type="text/css" href="style.css" />
-### 
-Hi! 😄 
-My name is Gustavo, I am a student of Exact Science and Computer Science. I'm currently studying Frontend.
+## Hi! 😄 My name is Gustavo, I am a student of Exact Science and Computer Science. I'm currently studying Frontend.
 
-<div style="text-align:center;display:flex">
+<div style="position:center;display:flex">
     <a href="https://github.com/GustaRM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaRM&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustaRM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaRM&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GustaRM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
